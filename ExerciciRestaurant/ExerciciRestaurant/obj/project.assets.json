@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Arnau\\source\\repos\\ExerciciRestaurant\\ExerciciRestaurant\\ExerciciRestaurant.csproj",
+      "projectUniqueName": "C:\\Users\\Arnau\\Source\\Repos\\ArnauDiezSans\\NET_UD8_M4\\ExerciciRestaurant\\ExerciciRestaurant\\ExerciciRestaurant.csproj",
       "projectName": "ExerciciRestaurant",
-      "projectPath": "C:\\Users\\Arnau\\source\\repos\\ExerciciRestaurant\\ExerciciRestaurant\\ExerciciRestaurant.csproj",
+      "projectPath": "C:\\Users\\Arnau\\Source\\Repos\\ArnauDiezSans\\NET_UD8_M4\\ExerciciRestaurant\\ExerciciRestaurant\\ExerciciRestaurant.csproj",
       "packagesPath": "C:\\Users\\Arnau\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Arnau\\source\\repos\\ExerciciRestaurant\\ExerciciRestaurant\\obj\\",
+      "outputPath": "C:\\Users\\Arnau\\Source\\Repos\\ArnauDiezSans\\NET_UD8_M4\\ExerciciRestaurant\\ExerciciRestaurant\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Arnau\\AppData\\Roaming\\NuGet\\NuGet.Config",

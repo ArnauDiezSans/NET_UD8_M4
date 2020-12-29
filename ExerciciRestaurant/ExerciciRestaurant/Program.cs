@@ -5,16 +5,25 @@ namespace ExerciciRestaurant
 {
     class Program
     {
-        public class Menu
+        /*public class Menu
         {
             public string Nom { get; set; }
             public int Preu { get; set; }
-            public int ID { get; set; }
+            public int ID { get; set; }*/
+        class RestauranteThrow
+        {
+            static void SiNo(int x)
+            {
+                if ((x != 0) | (x != 1))
+                {
+                    throw new System.ArgumentOutOfRangeException("Introduce 1:Si o 0:No");
+                }
+            }
 
             static void Main(string[] args)
             {
                 //fase1
-                int B5 = 5, B10 = 10, B20 = 20, B50 = 50, B100 = 100, B200 = 200, B500 = 500;
+                //int B5 = 5, B10 = 10, B20 = 20, B50 = 50, B100 = 100, B200 = 200, B500 = 500;
                 int Total = 0;
                 Console.WriteLine("---EXERCICI RESTAURANT---");
                 Console.WriteLine("");
@@ -57,14 +66,22 @@ namespace ExerciciRestaurant
                     {
                         Console.WriteLine("Nº{0}: {1} {2}E", i + 1, Plats[i], Preus[i]);
                     }
-                    Again:
+                Again:
                     Console.WriteLine("");
                     Console.WriteLine("Introdueix el numero del plat que vols demanar:");
                     pedido = Convert.ToInt32(Console.ReadLine()) - 1;
-                    if (pedido < 0 | pedido >= num_plats) { Console.WriteLine("Producte no existeix"); goto Again;  }
+                    if (pedido < 0 | pedido >= num_plats) { Console.WriteLine("Producte no existeix"); goto Again; }
                     ListaPedido.Add(Preus[pedido]);
 
                     Console.WriteLine("Vols demanar un altre plat? 1:Si 0:No");
+                    try
+                    {
+                        SiNo(demanar);
+                    }
+                    catch (System.ArgumentOutOfRangeException ex)
+                    {
+                        System.Console.WriteLine(ex.Message);
+                    }
                     demanar = Convert.ToInt32(Console.ReadLine());
                     quants_demanats++;
                 }
@@ -72,11 +89,12 @@ namespace ExerciciRestaurant
                 for (int x = 0; x < quants_demanats; x++)
                 {
                     Total = Total + ListaPedido[x];
-    
+
                 }
                 Console.WriteLine("El total de la comanda es: {0}", Total);
 
 
             }
         }
-    } }
+    }
+}
