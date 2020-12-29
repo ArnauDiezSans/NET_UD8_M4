@@ -27,6 +27,14 @@ namespace ExerciciRestaurant
                     throw new System.ArgumentOutOfRangeException("Introduce un plato entre el 1 y el ");
                 }
             }
+            /*static void EsEntero(int x)
+            {
+                if ((x <= -1) || (x >= numplats))
+                {
+                    throw new System.IndexOutOfRangeException("Introduce un plato entre el 1 y el ");
+                    throw new System.ArgumentOutOfRangeException("Introduce un plato entre el 1 y el ");
+                }
+            }*/
 
             static void Main(string[] args)
             {
