@@ -14,7 +14,7 @@ namespace ExerciciRestaurant
         {
             static void SiNo(int x)
             {
-                if ((x != 0) | (x != 1))
+                if ((x != 0) & (x != 1))
                 {
                     throw new System.ArgumentOutOfRangeException("Introduce 1:Si o 0:No");
                 }

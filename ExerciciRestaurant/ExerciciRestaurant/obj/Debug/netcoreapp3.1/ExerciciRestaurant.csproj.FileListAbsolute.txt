@@ -11,3 +11,16 @@ C:\Users\Arnau\source\repos\ExerciciRestaurant\ExerciciRestaurant\obj\Debug\netc
 C:\Users\Arnau\source\repos\ExerciciRestaurant\ExerciciRestaurant\obj\Debug\netcoreapp3.1\ExerciciRestaurant.dll
 C:\Users\Arnau\source\repos\ExerciciRestaurant\ExerciciRestaurant\obj\Debug\netcoreapp3.1\ExerciciRestaurant.pdb
 C:\Users\Arnau\source\repos\ExerciciRestaurant\ExerciciRestaurant\obj\Debug\netcoreapp3.1\ExerciciRestaurant.genruntimeconfig.cache
+C:\Users\Arnau\Source\Repos\ArnauDiezSans\NET_UD8_M4\ExerciciRestaurant\ExerciciRestaurant\bin\Debug\netcoreapp3.1\ExerciciRestaurant.exe
+C:\Users\Arnau\Source\Repos\ArnauDiezSans\NET_UD8_M4\ExerciciRestaurant\ExerciciRestaurant\bin\Debug\netcoreapp3.1\ExerciciRestaurant.deps.json
+C:\Users\Arnau\Source\Repos\ArnauDiezSans\NET_UD8_M4\ExerciciRestaurant\ExerciciRestaurant\bin\Debug\netcoreapp3.1\ExerciciRestaurant.runtimeconfig.json
+C:\Users\Arnau\Source\Repos\ArnauDiezSans\NET_UD8_M4\ExerciciRestaurant\ExerciciRestaurant\bin\Debug\netcoreapp3.1\ExerciciRestaurant.runtimeconfig.dev.json
+C:\Users\Arnau\Source\Repos\ArnauDiezSans\NET_UD8_M4\ExerciciRestaurant\ExerciciRestaurant\bin\Debug\netcoreapp3.1\ExerciciRestaurant.dll
+C:\Users\Arnau\Source\Repos\ArnauDiezSans\NET_UD8_M4\ExerciciRestaurant\ExerciciRestaurant\bin\Debug\netcoreapp3.1\ExerciciRestaurant.pdb
+C:\Users\Arnau\Source\Repos\ArnauDiezSans\NET_UD8_M4\ExerciciRestaurant\ExerciciRestaurant\obj\Debug\netcoreapp3.1\ExerciciRestaurant.csprojAssemblyReference.cache
+C:\Users\Arnau\Source\Repos\ArnauDiezSans\NET_UD8_M4\ExerciciRestaurant\ExerciciRestaurant\obj\Debug\netcoreapp3.1\ExerciciRestaurant.AssemblyInfoInputs.cache
+C:\Users\Arnau\Source\Repos\ArnauDiezSans\NET_UD8_M4\ExerciciRestaurant\ExerciciRestaurant\obj\Debug\netcoreapp3.1\ExerciciRestaurant.AssemblyInfo.cs
+C:\Users\Arnau\Source\Repos\ArnauDiezSans\NET_UD8_M4\ExerciciRestaurant\ExerciciRestaurant\obj\Debug\netcoreapp3.1\ExerciciRestaurant.csproj.CoreCompileInputs.cache
+C:\Users\Arnau\Source\Repos\ArnauDiezSans\NET_UD8_M4\ExerciciRestaurant\ExerciciRestaurant\obj\Debug\netcoreapp3.1\ExerciciRestaurant.dll
+C:\Users\Arnau\Source\Repos\ArnauDiezSans\NET_UD8_M4\ExerciciRestaurant\ExerciciRestaurant\obj\Debug\netcoreapp3.1\ExerciciRestaurant.pdb
+C:\Users\Arnau\Source\Repos\ArnauDiezSans\NET_UD8_M4\ExerciciRestaurant\ExerciciRestaurant\obj\Debug\netcoreapp3.1\ExerciciRestaurant.genruntimeconfig.cache
